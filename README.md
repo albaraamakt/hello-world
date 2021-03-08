@@ -1,2 +1,4 @@
 # hello-world
-first repository
+Hello I'm Albaraa
+
+I'm a new programmer.
